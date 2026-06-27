@@ -7,8 +7,8 @@ In this project,I am creating a recipe website using HTML.The website includes d
 
 By completing this project, I will deomstrate skills in:
  
-  -Creating and structuring HTML pages,
-  -Using headings,paragraphs, and lists,
-  -Adding links and images,
-  -Organizing files and folders,
-  -Using Git and GitHub,
+  Creating and structuring HTML pages,
+  using headings,paragraphs, and lists,
+  adding links and images,
+  organizing files and folders,
+  using Git and GitHub.
